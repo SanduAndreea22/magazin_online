@@ -1,8 +1,8 @@
 **Getting started**
 
-Have python3 installed
+Have python installed
 
-Initialize a new virtual environment: python3 -m venv env
+Initialize a new virtual environment: python -m venv env
 
 Activate your virtual env: source venv/bin/activate
 
