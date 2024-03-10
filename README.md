@@ -8,6 +8,6 @@ Activate your virtual env: source venv/bin/activate
 
 Intall the project dependencies: pip install -r requirements.txt
 
-Apply migrations: python3 manage.py migrate
+Apply migrations: python manage.py migrate
 
-Start the local server: python3 manage.py runserver
+Start the local server: python manage.py runserver
